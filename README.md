@@ -6,3 +6,10 @@ A high level overview about my works and projects
 * Used Logistic Regression and Ensemble model(Random Forest),on top to Scikitlearn. 
 *  Deep Learning model,trained on the top of Keras API, to observe which model works well.
 *  used ARTIFICIAL NEURAL NETWORKS architecture 
+
+
+# [Project 2 Forecasting the future sales of chain store](https://github.com/ShojibDE/Projects-2-Sales)
+## Unsupervised learning
+* Build a Machine Learning model to predict their future sales based on past data.
+*  build on the top of Facebook Prophet framework.
+
