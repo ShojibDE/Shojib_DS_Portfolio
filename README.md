@@ -7,16 +7,16 @@ A high level overview about my works and projects
 *  Deep Learning model,trained on the top of Keras API, to observe which model works well.
 *  used ARTIFICIAL NEURAL NETWORKS architecture 
 ![](/images/EDA0.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/technology.png)
+![](/images/technology.png)
 
 
 # [Project 2 Forecasting the future sales of chain store](https://github.com/ShojibDE/Projects-2-Sales)
 ## Unsupervised learning
 * Build a Machine Learning model to predict their future sales based on past data.
 *  build on the top of Facebook Prophet framework.
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/sales.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/fbProphet.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/fbProphet2.png)
+![](/main/images/sales.png)
+![](/images/fbProphet.png)
+![](/images/fbProphet2.png)
 
 # [Project 3 Segmenting the customers into three distinct groups so better marketing largeted add can launch.](https://github.com/ShojibDE/Project-3-Marketing)
 ## Unsupervised Technique
@@ -25,23 +25,23 @@ A high level overview about my works and projects
 * Choose cluster by using Elbow-method
 * PCA also used reducing dimension
 * APPLY AUTOENCODERS (PERFORM DIMENSIONALITY REDUCTION USING AUTOENCODERS)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/PCA.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/ChooseNclusterAfterPCA.png)
+![](/images/PCA.png)
+![](/images/ChooseNclusterAfterPCA.png)
 # [Project 4 Classify chest disease to help doctor to diagnosis](https://github.com/ShojibDE/Project-4-Medical-Images)
 ## A image classification trained Machine Learning Model on the top of Keras API.
 ### Images classification model
 * Model takes four types of image Healthy, Covid-19, Bacterial Pneumonia , Viral Pnemonia.
 * Model use Convolutinal Neural Network Architecture.
 * Applying Transfer Learning technique with the help of a pretraied model ResNet50. 
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/36%20images%20along%20with%20their%20corresponding%20labels.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/Model%20Loss%20During%20Cross-Validation.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/Model_predict.png)
+![](/images/36%20images%20along%20with%20their%20corresponding%20labels.png)
+![](/images/Model%20Loss%20During%20Cross-Validation.png)
+![](/images/Model_predict.png)
 # [Project 5 Sensitivity analysis using Natural Language Processing techniques](https://github.com/ShojibDE/Project-5-Sensitivity-Analysis)
 ## Natural Language Processing
 * Analyze customers reviews towards a Amazon great Product Alexa.
 * As it is text data so data pre-processing ,like remove punctuation and stopwords ,vectorization, 
 * Model use NAIVE BAYES CLASSIFIER to train and predict the data.
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/Variation_VS_rating.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/Most_Positive_words.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/Most_Negativetive_words.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/confusion_matrix.png)
+![](/images/Variation_VS_rating.png)
+![](/images/Most_Positive_words.png)
+![](/images/Most_Negativetive_words.png)
+![](/images/confusion_matrix.png)
