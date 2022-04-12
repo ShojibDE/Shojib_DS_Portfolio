@@ -11,7 +11,7 @@ A high level overview about my works and projects
 
 
 # [Project 2 Forecasting the future sales of chain store](https://github.com/ShojibDE/Projects-2-Sales)
-## Unsupervised learning
+## Supervised learning, Regression
 * Build a Machine Learning model to predict their future sales based on past data.
 *  build on the top of Facebook Prophet framework.
 ![](/images/sales.png)
