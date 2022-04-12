@@ -14,7 +14,7 @@ A high level overview about my works and projects
 ## Unsupervised learning
 * Build a Machine Learning model to predict their future sales based on past data.
 *  build on the top of Facebook Prophet framework.
-![](/main/images/sales.png)
+![](/images/sales.png)
 ![](/images/fbProphet.png)
 ![](/images/fbProphet2.png)
 
