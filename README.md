@@ -25,7 +25,7 @@ A high level overview about my works and projects
 * Choose cluster by using Elbow-method
 * PCA also used reducing dimension
 * APPLY AUTOENCODERS (PERFORM DIMENSIONALITY REDUCTION USING AUTOENCODERS)
-![](/images/PCA.png)
+![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/PCA2.png)
 ![](/images/ChooseNclusterAfterPCA.png)
 # [Project 4 Classify chest disease to help doctor to diagnosis](https://github.com/ShojibDE/Project-4-Medical-Images)
 ## A image classification trained Machine Learning Model on the top of Keras API.
