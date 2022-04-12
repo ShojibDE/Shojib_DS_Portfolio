@@ -26,4 +26,4 @@ A high level overview about my works and projects
 * PCA also used reducing dimension
 * APPLY AUTOENCODERS (PERFORM DIMENSIONALITY REDUCTION USING AUTOENCODERS)
 ![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/PCA.png)
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/PCA.png)
+![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/ChooseNclusterAfterPCA.png)
