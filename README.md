@@ -27,3 +27,12 @@ A high level overview about my works and projects
 * APPLY AUTOENCODERS (PERFORM DIMENSIONALITY REDUCTION USING AUTOENCODERS)
 ![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/PCA.png)
 ![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/ChooseNclusterAfterPCA.png)
+# [Classify chest disease to help doctor to diagnosis](https://github.com/ShojibDE/Project-4-Medical-Images)
+## A image classification trained Machine Learning Model on the top of Keras API.
+### Images classification model
+* Model takes four types of image Healthy, Covid-19, Bacterial Pneumonia , Viral Pnemonia.
+* Model use Convolutinal Neural Network Architecture.
+* Applying Transfer Learning technique with the help of a pretraied model ResNet50. 
+![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/36%20images%20along%20with%20their%20corresponding%20labels.png)
+![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/Model%20Loss%20During%20Cross-Validation.png)
+![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/Model_predict.png)
