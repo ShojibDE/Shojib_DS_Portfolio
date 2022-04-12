@@ -6,7 +6,7 @@ A high level overview about my works and projects
 * Used Logistic Regression and Ensemble model(Random Forest),on top to Scikitlearn. 
 *  Deep Learning model,trained on the top of Keras API, to observe which model works well.
 *  used ARTIFICIAL NEURAL NETWORKS architecture 
-![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/EDA0.png)
+![](/images/EDA0.png)
 ![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/technology.png)
 
 
