@@ -17,3 +17,13 @@ A high level overview about my works and projects
 ![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/sales.png)
 ![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/fbProphet.png)
 ![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/fbProphet2.png)
+
+# [Segmenting the customers into three distinct groups so better marketing largeted add can launch.](https://github.com/ShojibDE/Project-3-Marketing)
+## Unsupervised Technique
+* separating customers three distinct groups.In order to better targeted marketing campaign can launch
+* KMeans Algorithm used.
+* Choose cluster by using Elbow-method
+* PCA also used reducing dimension
+* APPLY AUTOENCODERS (PERFORM DIMENSIONALITY REDUCTION USING AUTOENCODERS)
+![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/PCA.png)
+![](https://github.com/ShojibDE/Shojib_DS_Portfolio/blob/main/images/PCA.png)
